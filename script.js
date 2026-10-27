@@ -2,7 +2,7 @@
 const PAGE_URL = "https://ryoya9595.github.io/mcp-connect-guide/";
 const GUIDE_URL = PAGE_URL + "setup.md";
 
-const INSTALL_PROMPT = `コネクタ（MCP）の接続（AI自動化講座 第15回）でつまずいています。
+const INSTALL_PROMPT = `コネクタ（MCP）の接続（AI自動化講座「MCP連携で外部ツールを動かそう」の回）でつまずいています。
 
 【手順書】
 ${GUIDE_URL}
